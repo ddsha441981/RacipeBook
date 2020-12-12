@@ -1,8 +1,10 @@
-package com.codewithcup.anjalistudio.racipebook;
+package com.codewithcup.anjalistudio.racipebook.activites;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.codewithcup.anjalistudio.racipebook.R;
 
 public class MainActivity extends AppCompatActivity {
 
